@@ -10,3 +10,4 @@
 ### Iniciando com Prompt Engineering
 
 - [Introdução](./01-introducao/resumo.md)
+- [Documentação](./02-documentacao/resumo.md)
