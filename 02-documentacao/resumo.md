@@ -2,7 +2,7 @@
 
 # Documentação Técnica e de Produto na Era da Inteligência Artificial
 
-## Sumário Executivo
+## Sumário
 A documentação de software evoluiu de um pré-requisito burocrático para um **ativo estratégico central**, comparável aos testes automatizados. Na era da IA, ela fornece o contexto necessário para que modelos de linguagem sejam assertivos na geração e manutenção de código. Este documento detalha a categorização de documentos, o papel vital do **PRD** e como o *Prompt Engineering* transforma a criação de registros técnicos em um processo dinâmico e automatizado.
 
 ---
