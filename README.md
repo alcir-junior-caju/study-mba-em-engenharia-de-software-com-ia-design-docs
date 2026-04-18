@@ -13,3 +13,4 @@
 - [Documentação](./02-documentacao/resumo.md)
 - [Design](./03-design/resumo.md)
 - [Diagramas C4](./04-diagramas-c4/resumo.md)
+- [Diagramas Mermaid](./05-diagramas-mermaid/resumo.md)
