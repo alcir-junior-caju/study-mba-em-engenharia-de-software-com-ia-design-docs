@@ -14,3 +14,8 @@
 - [Design](./03-design/resumo.md)
 - [Diagramas C4](./04-diagramas-c4/resumo.md)
 - [Diagramas Mermaid](./05-diagramas-mermaid/resumo.md)
+- [ADRs](./06-adr/resumo.md)
+
+
+### Referências
+- [FullCycle Plugins](https://github.com/devfullcycle/claude-mkt-place)
