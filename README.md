@@ -15,6 +15,7 @@
 - [Diagramas C4](./04-diagramas-c4/resumo.md)
 - [Diagramas Mermaid](./05-diagramas-mermaid/resumo.md)
 - [ADRs](./06-adr/resumo.md)
+- [Guidelines](./07-guidelines/resumo.md)
 
 
 ### Referências
